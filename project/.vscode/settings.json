@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/doo/anaconda3/envs/optimal_control/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
